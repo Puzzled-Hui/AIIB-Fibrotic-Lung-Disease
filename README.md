@@ -2,7 +2,7 @@
 
 [**_USNet: Universal-Specific Network for Airway Modeling of Pulmonary Fibrosis CT Scans_**]()
 
-> By Minghui Zhang, Hanxiao Zhang, Yangqian Wu and Yun Gu
+> By Minghui Zhang, Hanxiao Zhang, Yangqian Wu, and Yun Gu
 >> Institute of Medical Robotics, Shanghai Jiao Tong University
 
 
