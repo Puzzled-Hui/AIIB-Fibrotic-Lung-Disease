@@ -19,7 +19,7 @@ Step 1, please load our docker from the compressed file:
 docker image load < imrv1.tar.gz
 ```
 
-Step 2, we have followed your tutorial with slight change, please use the following to run our docker:
+Step 2, use the following to run our docker:
 
 ```
 docker container run --gpus "device=0" --name imrv1 --rm -v [input directory]:/input -v [output directory]:/output imrv1:latest
